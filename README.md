@@ -2,7 +2,7 @@
 
 ***thanks for your visiting***
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=funnymadep&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6)![](https://github-readme-activity-graph.vercel.app/graph?username={YOUR_USERNAME}&theme=github-compact&hide_border=true&area=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=funnymadep&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6)![](https://github-readme-activity-graph.vercel.app/graph?username=funnymadep&theme=github-compact&hide_border=true&area=true)
 
 <!--
 **funnymadep/funnymadep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
