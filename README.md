@@ -2,13 +2,13 @@
 
 ***thanks for your visiting***
 
-<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnymadep&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="alt_text">
 </div>
--->
 
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=funnymadep&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6)
+-->
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=funnymadep&theme=github-compact&hide_border=true&area=true)
 
